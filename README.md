@@ -1,7 +1,7 @@
 ### Hi there, I'm Ayush Katoch 👋
 
 
-## I'm a Student and Learner 🤣🤣!!
+## I'm a Student and Learner �😃😃!!
 
 - 😃 I'm 18 years old
 - 🌱 I’m currently learning Javascript and React
