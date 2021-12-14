@@ -3,7 +3,7 @@
 
 ## I'm a Student and Learner �😃😃!!
 
-- 😃 I'm 18 years old
+- 😃 I'm 19 years old
 - 🌱 I’m currently learning Javascript and React
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Badminton and Cricket
