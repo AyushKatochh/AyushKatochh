@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Katoch</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img width="400" align="right" src="https://camo.githubusercontent.com/e99ebbea9b97b0eb6c21ec49247354c453de695c1586178666e02e05fb3aca6c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
+<img width="500" align="center" src="https://camo.githubusercontent.com/e99ebbea9b97b0eb6c21ec49247354c453de695c1586178666e02e05fb3aca6c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkatochh&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkatochh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkatochh" alt="ayushkatochh" /></a> </p>
